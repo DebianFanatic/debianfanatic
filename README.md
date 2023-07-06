@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## DebianFanatic's GitHub Repository
+
+# Rust - Convert Debian's *sl* app from C to Rust
 <!--
 **DebianFanatic/debianfanatic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
